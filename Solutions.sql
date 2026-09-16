@@ -269,4 +269,4 @@ SELECT
 FROM city_rent AS cr
 JOIN city_table AS ct
 ON cr.city_name = ct.city_name
-ORDER BY 2 DESC
+ORDER BY 2 DESC;
